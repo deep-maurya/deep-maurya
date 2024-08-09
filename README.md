@@ -6,7 +6,8 @@ I am a passionate Full Stack Developer, always on the lookout for exciting and c
 
 🚀 Aspiring Developer | 💻 Passionate about Coding
 
-## 🛠️ Skills
+
+## 🛠️ Language & tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,7 +26,10 @@ I am a passionate Full Stack Developer, always on the lookout for exciting and c
 
 ## 📊 GitHub Stats
 
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deep-maurya&show_icons=true&theme=radical)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api?username=deep-maurya&show_icons=true&theme=radical" alt="Deepak's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deep-maurya&theme=radical" alt="Deepak's GitHub streak stats" />
+</div>
 
 ## 🏆 GitHub Trophies
 
@@ -34,4 +38,5 @@ I am a passionate Full Stack Developer, always on the lookout for exciting and c
 ## 📫 Contact Me
 
 - LinkedIn: [Deepak Maurya](https://www.linkedin.com/in/deepak_maurya_47)
-- Email: [deepakmaurya@example.com](mailto:deepakmauryahd@gmail.com)
+- Email: [deepakmauryahd@gmail.com](mailto:deepakmauryahd@gmail.com)
+- Portfolio : [Deepak Maurya](https://www.linkedin.com/in/deepak_maurya_47)
