@@ -39,4 +39,4 @@ I am a passionate Full Stack Developer, always on the lookout for exciting and c
 
 - LinkedIn: [Deepak Maurya](https://www.linkedin.com/in/deepak_maurya_47)
 - Email: [deepakmauryahd@gmail.com](mailto:deepakmauryahd@gmail.com)
-- Portfolio : [Deepak Maurya](https://www.linkedin.com/in/deepak_maurya_47)
+- Portfolio : [Deepak Maurya](https://deep-maurya.github.io/)
